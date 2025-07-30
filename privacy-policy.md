@@ -4,7 +4,7 @@
   # Pre-call Prep Wizard - Privacy
   Policy
 
-  *Last Updated: [Current Date]*
+  *Last Updated: [07/30/2025]*
 
   ## Overview
   The Pre-call Prep Wizard is an
@@ -77,7 +77,7 @@
 
   ## Contact
   For questions about this privacy
-  policy, contact: [Your Email]
+  policy, contact: [Jacob.wisniewski@levitateapp.com]
 
   ---
   *This extension is an internal tool 
